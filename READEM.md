@@ -8,7 +8,7 @@
     - `npm run build` 打包生成文件
 
 #### 在线预览
-
+[https://z-hnan.github.io/todomvc-vue-single/dist/index.html](https://z-hnan.github.io/todomvc-vue-single/dist/index.html)
 
 #### 目录结构
 ~~~shell
