@@ -1,4 +1,4 @@
-## todo-mvc的vue实现，实现了单文件的实现
+## todo-mvc的vue实现，单文件的写法
 
 #### 快速启动
   + `git clone https://github.com/Z-HNAN/todomvc-vue-single.git` clone下来该项目
